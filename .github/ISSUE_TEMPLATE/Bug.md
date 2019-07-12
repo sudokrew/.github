@@ -1,5 +1,5 @@
 ---
-name: "Report a bug :bug:"
+name: "Report a bug 🐛"
 about: "Found an unexpected issue? Report it so that it's not forgotten!"
 labels: "bug"
 ---

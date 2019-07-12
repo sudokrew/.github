@@ -1,6 +1,5 @@
 ---
-name: "Assign a task ::"
-about: "Found an unexpected issue? Report it so that it's not forgotten!"
+name: "Assign a task ☑️"
 labels: "task"
 ---
 
