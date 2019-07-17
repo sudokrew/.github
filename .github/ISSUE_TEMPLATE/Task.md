@@ -1,7 +1,27 @@
 ---
 name: "Assign a task ☑️"
-about: "Need to keep track of something? Assign it here!"
+about: "Create an actionable item"
 labels: "help wanted"
 ---
 
-<!-- If this task can be assigned to someone, do so now! Use the sidebar on the right! -->
+<!-- User stories and bugs are broken down in to tasks. -->
+
+#### Related issues
+
+<!-- Tag related stories that this task is related to -->
+
+#1 #2 #3
+
+**Estimated hours:** X hours
+
+#### Description
+
+<!-- What needs to be done? How will this resolve the related issue? -->
+
+Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi at numquam eveniet nemo amet ut, quisquam quidem quam ducimus vel adipisci qui illum. Sed odio, dicta sit illo voluptate rerum?
+
+#### Satisfactory Conditions
+
+- [ ] Conditions may contain additional details necessary to complete the task.
+- [ ] Some tasks _may_ need to be broken down into smaller tasks.
+- [ ] Don't overthink it.
