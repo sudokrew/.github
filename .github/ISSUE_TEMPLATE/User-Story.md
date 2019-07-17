@@ -16,6 +16,8 @@ User stories describe the actions the user should be able to carry out by intera
 
 ---
 
+**Story Points:** ?
+
 #### Description
 
 ```gherkin
