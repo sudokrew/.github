@@ -1,16 +1,26 @@
 ---
 name: "Report a bug 🐛"
 about: "Found an unexpected issue? Report it so that it's not forgotten!"
-labels: "bug"
+labels: "bug, story points: ?"
 ---
 
 <!-- 🎗 Please check if a similar issue has already been created. -->
+
+#### Related issues
+
+<!-- Tag related issues that this task is related to. -->
+
+#1 #2 #3
+
+---
 
 #### Description
 
 <!-- Replace with a description of the issue. -->
 
-#### Browsers
+Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi at numquam eveniet nemo amet ut, quisquam quidem quam ducimus vel adipisci qui illum. Sed odio, dicta sit illo voluptate rerum?
+
+#### Affected browsers
 
 - [ ] Chrome
 - [ ] Firefox
@@ -34,9 +44,3 @@ labels: "bug"
 #### Attachments
 
 <!-- Relevant screenshots, GIFs, error logs, status codes, etc. -->
-
----
-
-#### Related Issues
-
-<!-- #1, #2, #3, this just helps to keep a paper trail open on GitHub -->
