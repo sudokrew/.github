@@ -1,7 +1,7 @@
 ---
 name: "Draft a feature 🖋"
 about: "It's official! We're working on it!"
-labels: "feature"
+labels: "Feature"
 ---
 
 <!--
