@@ -1,7 +1,7 @@
 ---
 name: "Report a bug 🐛"
 about: "Found an unexpected issue? Report it so that it's not forgotten!"
-labels: "Bug, Help Wanted"
+labels: "bug"
 ---
 
 <!-- 🎗 Please check if a similar issue has already been created. -->

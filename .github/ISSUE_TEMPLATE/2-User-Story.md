@@ -1,7 +1,7 @@
 ---
 name: "Document a user story ✍️"
 about: "What should the user experience?"
-labels: "User Story, Help Wanted"
+labels: "user-story"
 ---
 
 <!--
