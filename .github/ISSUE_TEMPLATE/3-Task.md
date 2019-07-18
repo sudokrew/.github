@@ -1,7 +1,7 @@
 ---
 name: "Assign a task ☑️"
 about: "Create an actionable item"
-labels: "help wanted"
+labels: "task, help wanted"
 ---
 
 <!-- User stories and bugs are broken down in to tasks. -->
