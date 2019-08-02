@@ -1,14 +1,14 @@
 ---
-name: "Report a bug 🐛"
+name: "🐛 Report a bug"
 about: "Found an unexpected issue? Report it so that it's not forgotten!"
 labels: "bug"
 ---
 
 <!-- 🎗 Please check if a similar issue has already been created. -->
 
-#### Related issues
+#### Related stories
 
-<!-- Tag related issues that this task is related to. -->
+<!-- Tag the stories this bug is related to. -->
 
 #1 #2 #3
 
@@ -16,16 +16,13 @@ labels: "bug"
 
 #### Description
 
-<!-- Replace with a description of the issue. -->
+<!-- What happened that was unexpected? -->
 
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi at numquam eveniet nemo amet ut, quisquam quidem quam ducimus vel adipisci qui illum. Sed odio, dicta sit illo voluptate rerum?
 
-#### Affected browsers
+#### Attachments
 
-- [ ] Chrome
-- [ ] Firefox
-- [ ] Safari
-- [ ] Edge
+<!-- Relevant screenshots, GIFs, error logs, status codes, etc. -->
 
 ---
 
@@ -33,13 +30,7 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi at numquam ev
 
 <!-- Why does this fail the project requirements? -->
 
-**URL:** <!-- https://example/url/path -->
-
-#### Steps to reproduce
-
-1. <!-- Given -->
-2. <!-- When -->
-3. <!-- Then -->
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio explicabo, facere eveniet deserunt eaque provident earum iure magnam expedita incidunt et fuga similique officiis minus! Aperiam alias officia eius placeat?
 
 #### Attachments
 
