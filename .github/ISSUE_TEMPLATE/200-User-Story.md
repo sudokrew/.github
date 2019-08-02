@@ -1,5 +1,5 @@
 ---
-name: "Document a user story ✍️"
+name: "🚧 Document a user story"
 about: "What should the user experience?"
 labels: "user-story, ∞-story-points"
 ---
