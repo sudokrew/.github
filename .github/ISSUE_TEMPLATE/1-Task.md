@@ -1,16 +1,20 @@
 ---
-name: "Assign a task ☑️"
+name: "☑️ Assign a task"
 about: "Create an actionable item"
 labels: "task"
 ---
 
 <!-- User stories and bugs are broken down in to tasks. -->
 
-#### Related issues
+#### Related tickets
 
-<!-- Tag related stories that this task is related to -->
+<!-- Tag user stories that this task is related to. -->
 
 #1 #2 #3
+
+---
+
+<!-- Please estimate how many hours you're dedicating to this task. -->
 
 **Estimated hours:** X hours
 
