@@ -14,7 +14,7 @@ labels: "bug"
 
 ---
 
-#### Description
+#### What went wrong?
 
 <!-- What happened that was unexpected? -->
 
